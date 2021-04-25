@@ -59,7 +59,7 @@ user@user:~/simpletty$ sudo su
 [sudo] password for user:                                                                                                                                                                                                               
 ```
 
-The base64 output of base64ttygz.txt is already uploaded so that you will not be annoyed with the previous steps done on the attacker machine. The corresponding compiled binary code is x64 code.
+The base64 output of base64ttygz_x64.txt (x64) and base64ttygz_x86.txt are already uploaded so that you will not be annoyed with the previous steps to be done on the attacker machine.
 
 In order to compile 32 bits code (x86), you will need to:
 - Either compile in a x86 machine
